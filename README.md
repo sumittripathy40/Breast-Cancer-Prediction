@@ -37,19 +37,6 @@ The notebook loads and explores a breast cancer dataset, scales numeric features
 
 **Dataset note:** The notebook currently references a file named `wisc_bc_data.csv`. Make sure the dataset filename in the notebook matches the CSV filename you use before running all cells.
 
-## 🖼️ Screenshots
-
-Add screenshots of notebook outputs or visualizations here. Upload your images to the repository (for example, in a `screenshots/` folder), then replace the example paths below with the actual image paths.
-
-### Dataset Exploration
-![Dataset exploration](screenshots/dataset-exploration.png)
-
-### Model Evaluation
-![KNN model evaluation](screenshots/model-evaluation.png)
-
-### Cross-Validation Plot
-![Misclassification error by number of neighbors](screenshots/knn-cross-validation.png)
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
